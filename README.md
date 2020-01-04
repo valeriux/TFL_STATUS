@@ -18,9 +18,10 @@
 
 
 ## TFL Status - React
-<img width="362" alt="Screenshot 2020-01-04 at 00 36 22" src="https://user-images.githubusercontent.com/47470930/71756872-f2600e00-2e89-11ea-9c42-df2a49aecf60.png">
+<img width="362" alt="Screenshot 2020-01-04 at 00 42 43" src="https://user-images.githubusercontent.com/47470930/71757030-d27d1a00-2e8a-11ea-9ea7-c884211796ab.png">
 
-## You can find a hosted version here ----> https://valeriux.github.io/tfl_status/
+## You can find a hosted version here:
+- https://valeriux.github.io/tfl_status/
 
 
 ### TFL Status
