@@ -1,7 +1,7 @@
-# TUBE STATUS - TFL Transport s
+# TUBE STATUS - TFL Transport
 
 ### Timeframe
-* 3 hours
+* 2.5 hours
 
 ## Technologies used
 
@@ -17,18 +17,17 @@
 1. Clone or download the repo.
 
 
-## TFL Status - React
+### TFL Status - React
 <img width="362" alt="Screenshot 2020-01-04 at 00 42 43" src="https://user-images.githubusercontent.com/47470930/71757030-d27d1a00-2e8a-11ea-9ea7-c884211796ab.png">
 
-## You can find a hosted version here:
+### You can find a hosted version here:
 - https://valeriux.github.io/tfl_status/
-
 
 ### TFL Status
 
 The brief was to:
 - Consume a public available API and it was TFL API.
-- Practice Axios get api request.
+- Practice Axios get api request and ternary operator.
 
 ### APP Overview
 
