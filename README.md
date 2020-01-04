@@ -1,7 +1,7 @@
 # TUBE STATUS - TFL Transport
 
 ### Timeframe
-* 2.5 hours
+* 3 hours
 
 ## Technologies used
 
