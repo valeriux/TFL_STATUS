@@ -24,6 +24,7 @@
 The brief was to:
 - Consume a public available API and it was TFL API.
 - Practice Axios get api request and ternary operator.
+- App is not complete yet but I deployed all planned to my First Sprint.
 
 ### APP Overview
 The application return the results of all Underground Line Status.
